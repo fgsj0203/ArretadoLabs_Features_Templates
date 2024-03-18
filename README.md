@@ -1,3 +1,9 @@
+<div align="center">
+
+![](https://cdn2.iconfinder.com/data/icons/new-year-resolutions/64/resolutions-10-512.png)
+
+</div>
+
 # Templates de recursos que podem ser reutilizados em sites 🗎
 
 > Esse repositório tem como objetivo contribuir com a comunidade e auxiliar outros desenvolvedores a ganhar produtividade em seus projetos
